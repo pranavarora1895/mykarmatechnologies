@@ -1,6 +1,6 @@
 # MyKarma Technologies Website  [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
-> ##You can view the website on the given [link.](https://pranavarora1895.github.io/mykarmatechnologies/)
+> ### You can view the website on the given [link.](https://pranavarora1895.github.io/mykarmatechnologies/)
 
 **This website is made with HTML5, CSS, and JS. It uses a framework called BootstrapMade.**
 
